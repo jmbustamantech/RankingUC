@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RankingUC</string>
+    <string name="menu_rankingQS">Ranking QS</string>
+    <string name="menu_rankingUS">Ranking U-Sapiens</string>
+    <string name="app_title">Ranking Universidades Colombia</string>
+    <string name="app_description">Esta app presenta el listado de universidades de Colombia basado en rankings nacionales e internacionales</string>
+    <string name="uniandes">Universidad de los Andes</string>
+    <string name="unal">Universidad Nacional de Colombia</string>
+    <string name="udea">Universidad de Antioquia</string>
+    <string name="ujaveriana">Universidad Javeriana</string>
+    <string name="univalle">Universidad del Valle</string>
+    <string name="atras">Volver</string>
+</resources>
